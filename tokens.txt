@@ -2,5 +2,4 @@
 @mezzi
 @office
 @Noor
-LEADER
-ANEW-TOKEN
+@sxfyan
